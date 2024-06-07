@@ -1,5 +1,7 @@
 # Some helpful commands
 
+## git
+
 - git status
   -git branch
   -git switch (for example: switch between branches)
